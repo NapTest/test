@@ -1,0 +1,25 @@
+timestamps:
+  login: 1395598023953
+  logout: 1395598028903
+  lastteleport: 1395586042748
+ipAddress: 10.0.3.35
+lastlocation:
+  world: worldwalls2
+  x: 125.23940654389003
+  y: 111.0
+  z: 109.15278607311195
+  yaw: 168.24463
+  pitch: 32.50103
+logoutlocation:
+  world: worldwalls2
+  x: 130.27978965334074
+  y: 111.0
+  z: 127.5463013818325
+  yaw: -191.03851
+  pitch: 27.146906
+godmode: true
+ban:
+  reason: |-
+    §4Banned:
+    §rThe Ban Hammer has spoken!
+  timeout: 0

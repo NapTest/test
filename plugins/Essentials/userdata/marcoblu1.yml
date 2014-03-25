@@ -1,0 +1,20 @@
+timestamps:
+  login: 1395612500076
+  lastteleport: 1395532438243
+  logout: 1395612508327
+ipAddress: 10.0.3.35
+lastlocation:
+  world: worldwalls2
+  x: 157.0835189533471
+  y: 127.00655221348576
+  z: 149.90522509915417
+  yaw: 200.104
+  pitch: 44.550106
+afk: false
+logoutlocation:
+  world: worldwalls2
+  x: 88.37925490885014
+  y: 117.60956250485197
+  z: 125.2430775393154
+  yaw: 190.06866
+  pitch: 29.849997

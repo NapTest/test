@@ -1,0 +1,104 @@
+2014-03-20 15:41:04 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-03-20 15:41:04 [INFO] [Multiverse-Core] Loading World & Settings - 'hyperwall' - Env: NORMAL - Type: NORMAL & seed: 9046382410751416252
+2014-03-20 15:41:04 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-20 15:41:04 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 63 Z: 0 P: 0 Y: 0 
+2014-03-20 15:41:04 [INFO] [Multiverse-Core] New Spawn for 'hyperwall' is Located at: hyperwall:2.50,63.00,0.50:0.00:0.00
+2014-03-20 15:41:04 [INFO] [Multiverse-Core] Loading World & Settings - 'hyperwall' - Env: NORMAL - Type: NORMAL & seed: 9046382410751416252
+2014-03-20 15:41:04 [INFO] [Multiverse-Core] 1 - World(s) loaded.
+2014-03-20 16:04:49 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-03-20 16:04:49 [INFO] [Multiverse-Core] Loading World & Settings - 'hyperwall' - Env: NORMAL - Type: NORMAL & seed: 9046382410751416252
+2014-03-20 16:04:49 [INFO] [Multiverse-Core] 1 - World(s) loaded.
+2014-03-20 16:08:57 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls' - Env: NORMAL - Type: NORMAL
+2014-03-20 16:09:51 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls2' - Env: NORMAL - Type: NORMAL
+2014-03-20 16:09:58 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-20 16:09:58 [WARNING] [Multiverse-Core] Original Location: X: 57 Y: 64 Z: 25 P: 0 Y: 0 
+2014-03-20 16:09:58 [INFO] [Multiverse-Core] New Spawn for 'worldwalls2' is Located at: worldwalls2:51.50,64.00,24.50:0.00:0.00
+2014-03-20 16:26:30 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-03-20 16:26:30 [INFO] [Multiverse-Core] Loading World & Settings - 'hyperwall' - Env: NORMAL - Type: NORMAL & seed: 9046382410751416252
+2014-03-20 16:26:33 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls' - Env: NORMAL - Type: NORMAL & seed: -7545372160446819913
+2014-03-20 16:26:33 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-20 16:26:33 [WARNING] [Multiverse-Core] Original Location: X: 302 Y: 4 Z: -706 P: 0 Y: 0 
+2014-03-20 16:26:33 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2014-03-20 16:26:33 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls2' - Env: NORMAL - Type: NORMAL & seed: 7133190616213580063
+2014-03-20 16:26:34 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-20 16:26:34 [WARNING] [Multiverse-Core] Original Location: X: 302 Y: 4 Z: -706 P: 0 Y: 0 
+2014-03-20 16:26:34 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2014-03-20 16:26:34 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-03-20 16:32:39 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-03-20 16:32:39 [INFO] [Multiverse-Core] Loading World & Settings - 'hyperwall' - Env: NORMAL - Type: NORMAL & seed: -1227692271230007779
+2014-03-20 16:32:39 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-20 16:32:39 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-20 16:32:39 [WARNING] [Multiverse-Core] Original Location: X: 21 Y: 64 Z: 53 P: 0 Y: 0 
+2014-03-20 16:32:39 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2014-03-20 16:32:39 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls2' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-20 16:32:40 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-20 16:32:40 [WARNING] [Multiverse-Core] Original Location: X: 51 Y: 64 Z: 24 P: 0 Y: 0 
+2014-03-20 16:32:40 [INFO] [Multiverse-Core] New Spawn for 'worldwalls2' is Located at: worldwalls2:50.50,65.00,24.50:0.00:0.00
+2014-03-20 16:32:40 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-03-20 19:29:28 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-03-20 19:29:29 [INFO] [Multiverse-Core] Loading World & Settings - 'hyperwall' - Env: NORMAL - Type: NORMAL & seed: -5939596955736250958
+2014-03-20 19:29:29 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-20 19:29:29 [WARNING] [Multiverse-Core] Original Location: X: 212 Y: 64 Z: 256 P: 0 Y: 0 
+2014-03-20 19:29:29 [INFO] [Multiverse-Core] New Spawn for 'hyperwall' is Located at: hyperwall:211.50,64.00,255.50:0.00:0.00
+2014-03-20 19:29:29 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-20 19:29:29 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-20 19:29:29 [WARNING] [Multiverse-Core] Original Location: X: 21 Y: 64 Z: 53 P: 0 Y: 0 
+2014-03-20 19:29:29 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2014-03-20 19:29:29 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls2' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-20 19:29:29 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-20 19:29:29 [WARNING] [Multiverse-Core] Original Location: X: 141 Y: 123 Z: 59 P: 0 Y: 0 
+2014-03-20 19:29:29 [INFO] [Multiverse-Core] New Spawn for 'worldwalls2' is Located at: worldwalls2:141.50,123.00,60.50:0.00:0.00
+2014-03-20 19:29:29 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls3' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-20 19:29:29 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-20 19:29:29 [WARNING] [Multiverse-Core] Original Location: X: 302 Y: 4 Z: -706 P: 0 Y: 0 
+2014-03-20 19:29:29 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2014-03-20 19:29:30 [INFO] [Multiverse-Core] Loading World & Settings - 'hyperwall' - Env: NORMAL - Type: NORMAL & seed: -5939596955736250958
+2014-03-20 19:29:30 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2014-03-20 23:17:19 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-03-20 23:17:19 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-20 23:17:19 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-20 23:17:19 [WARNING] [Multiverse-Core] Original Location: X: 21 Y: 64 Z: 53 P: 0 Y: 0 
+2014-03-20 23:17:19 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2014-03-20 23:17:19 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls2' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-20 23:17:19 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls3' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-20 23:17:20 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-20 23:17:20 [WARNING] [Multiverse-Core] Original Location: X: 50 Y: 65 Z: 24 P: 0 Y: 0 
+2014-03-20 23:17:20 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2014-03-20 23:17:20 [INFO] [Multiverse-Core] Loading World & Settings - 'hyperwall' - Env: NORMAL - Type: NORMAL & seed: -5939596955736250958
+2014-03-20 23:17:20 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2014-03-21 16:52:59 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-03-21 16:52:59 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-21 16:52:59 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-21 16:52:59 [WARNING] [Multiverse-Core] Original Location: X: 21 Y: 64 Z: 53 P: 0 Y: 0 
+2014-03-21 16:52:59 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2014-03-21 16:52:59 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls2' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-21 16:53:00 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls3' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-21 16:53:00 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-21 16:53:00 [WARNING] [Multiverse-Core] Original Location: X: 50 Y: 65 Z: 24 P: 0 Y: 0 
+2014-03-21 16:53:00 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2014-03-21 16:53:00 [INFO] [Multiverse-Core] Loading World & Settings - 'hyperwall' - Env: NORMAL - Type: NORMAL & seed: -5939596955736250958
+2014-03-21 16:53:00 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2014-03-21 17:01:45 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-03-21 17:01:45 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-21 17:01:45 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-21 17:01:45 [WARNING] [Multiverse-Core] Original Location: X: 21 Y: 64 Z: 53 P: 0 Y: 0 
+2014-03-21 17:01:45 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2014-03-21 17:01:46 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls2' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-21 17:01:46 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls3' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-21 17:01:46 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-21 17:01:46 [WARNING] [Multiverse-Core] Original Location: X: 50 Y: 65 Z: 24 P: 0 Y: 0 
+2014-03-21 17:01:46 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2014-03-21 17:01:46 [INFO] [Multiverse-Core] Loading World & Settings - 'hyperwall' - Env: NORMAL - Type: NORMAL & seed: -5939596955736250958
+2014-03-21 17:01:46 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2014-03-22 10:37:18 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-03-22 10:37:18 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-22 10:37:19 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-22 10:37:19 [WARNING] [Multiverse-Core] Original Location: X: 302 Y: 4 Z: -706 P: 0 Y: 0 
+2014-03-22 10:37:19 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2014-03-22 10:37:19 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls2' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-22 10:37:19 [INFO] [Multiverse-Core] Loading World & Settings - 'worldwalls3' - Env: NORMAL - Type: FLAT & seed: 7036588432996599363
+2014-03-22 10:37:20 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-03-22 10:37:20 [WARNING] [Multiverse-Core] Original Location: X: 302 Y: 4 Z: -706 P: 0 Y: 0 
+2014-03-22 10:37:20 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2014-03-22 10:37:20 [INFO] [Multiverse-Core] Loading World & Settings - 'hyperwall' - Env: NORMAL - Type: NORMAL & seed: -5939596955736250958
+2014-03-22 10:37:20 [INFO] [Multiverse-Core] 4 - World(s) loaded.

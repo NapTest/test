@@ -1,0 +1,27 @@
+System:
+  Setup: false
+  QuickSetup:
+    Enable: false
+    Currency:
+      Name: Dollar
+      NamePlural: Dollars
+      Minor: Coin
+      MinorPlural: Coins
+      Sign: $
+    StartBalance: 100.0
+    PriceBank: 200.0
+    DisplayMode: long
+  CheckNewVersion: true
+  Case-sentitive: false
+  CreateOnLogin: false
+  Logging:
+    Enabled: false
+  Database:
+    Type: mysql
+    Address: 10.0.3.12
+    Port: 3306
+    Username: coinuser
+    Password: JBwHq_zO3HEDWYxsh8O-W_WKg307cT
+    Db: coindb
+    Prefix: cc3_
+    ConvertFromSQLite: false

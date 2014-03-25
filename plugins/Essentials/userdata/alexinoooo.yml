@@ -1,0 +1,19 @@
+money: '3.0'
+timestamps:
+  login: 1395586085899
+  logout: 1395586388986
+ipAddress: 10.0.3.35
+lastlocation:
+  world: hyperwall
+  x: 214.63118136157155
+  y: 75.7531999805212
+  z: 256.2685663841902
+  yaw: 60.59949
+  pitch: 31.049978
+logoutlocation:
+  world: worldwalls2
+  x: 107.12250222994098
+  y: 111.0
+  z: 149.1028906096946
+  yaw: -298.65036
+  pitch: 17.699987

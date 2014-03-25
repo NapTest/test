@@ -1,0 +1,21 @@
+timestamps:
+  login: 1395420094242
+  lastteleport: 1395420121297
+  logout: 1395420284893
+ipAddress: 10.0.3.35
+lastlocation:
+  world: worldwalls2
+  x: 59.67224721006519
+  y: 118.77882177174305
+  z: 109.31135173672435
+  yaw: -71.8501
+  pitch: 5.550054
+godmode: true
+nickname: iD0PE
+logoutlocation:
+  world: worldwalls2
+  x: 19.623213571523276
+  y: 127.1707870772188
+  z: 159.26202582528853
+  yaw: -181.9477
+  pitch: 17.699997

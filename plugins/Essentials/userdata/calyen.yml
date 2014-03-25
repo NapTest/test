@@ -1,0 +1,22 @@
+timestamps:
+  login: 1395592612591
+  lastteleport: 1395533168084
+  logout: 1395592620744
+ipAddress: 10.0.3.35
+lastlocation:
+  world: hyperwall
+  x: 210.3049102978929
+  y: 84.02784485489136
+  z: 266.3591761933663
+  yaw: 172.65442
+  pitch: 55.15992
+logoutlocation:
+  world: worldwalls2
+  x: 48.30000001192093
+  y: 124.0
+  z: 211.93163553378255
+  yaw: -276.64343
+  pitch: 28.199997
+nickname: §2§lCalyen
+godmode: false
+afk: false

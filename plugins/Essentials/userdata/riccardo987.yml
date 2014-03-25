@@ -1,0 +1,26 @@
+ban:
+  reason: |-
+    §4Banned:
+    §rThe Ban Hammer has spoken!
+  timeout: 0
+money: '5.0'
+timestamps:
+  login: 1395591995198
+  logout: 1395592002948
+  lastteleport: 1395541036239
+ipAddress: 10.0.3.35
+lastlocation:
+  world: worldwalls2
+  x: 48.333612051865025
+  y: 120.0
+  z: 42.76761072239881
+  yaw: -90.94403
+  pitch: -1.1476285
+logoutlocation:
+  world: worldwalls2
+  x: 123.40558797203816
+  y: 135.10461120890864
+  z: 120.73072970971178
+  yaw: -254.91086
+  pitch: 37.16161
+nickname: §6§lRiccardo987

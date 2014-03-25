@@ -1,0 +1,18 @@
+timestamps:
+  login: 1395341119352
+  logout: 1395341153502
+ipAddress: 10.0.3.18
+lastlocation:
+  world: hyperwall
+  x: 2.5
+  y: 63.0
+  z: 0.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: hyperwall
+  x: -0.4747287699338767
+  y: 60.85162790416358
+  z: 45.54766298941123
+  yaw: -321.3313
+  pitch: -19.660805
